@@ -82,6 +82,13 @@ This analysis aims to evaluate hospital operational efficiency and patient trend
 
 ---
 
+## 📊 Hospital Management Dashboards
+
+![Dashboard 1](Hospital-Analysis-Excel/hospital_managment_dashboards/HMS1.png)
+![Dashboard 2](Hospital-Analysis-Excel/hospital_managment_dashboards/HMS2.png)
+![Dashboard 3](Hospital-Analysis-Excel/hospital_managment_dashboards/HMS3.png)
+
+
 ## 📌 Author
 Zahra Alyassin  
 Computer Science 
