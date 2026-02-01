@@ -84,8 +84,13 @@ This analysis aims to evaluate hospital operational efficiency and patient trend
 
 ## 📊 Hospital Management Dashboards
 
+This dashboard analyzes appointment trends, cancellations, peak visiting times, and visit reasons.
 ![Dashboard 1](hospital_managment_dashboards/HMS1.png)
+
+This dashboard evaluates doctor performance, patient distribution, and workload across the year.
 ![Dashboard 2](hospital_managment_dashboards/HMS2.png)
+
+This dashboard analyzes patient demographics, age groups, gender distribution, and insurance providers.
 ![Dashboard 3](hospital_managment_dashboards/HMS3.png)
 
 
