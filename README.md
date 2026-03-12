@@ -94,6 +94,4 @@ This dashboard analyzes patient demographics, age groups, gender distribution, a
 ![Dashboard 3](hospital_managment_dashboards/HMS3.png)
 
 
-## 📌 Author
-Zahra Alyassin  
-Computer Science 
+
